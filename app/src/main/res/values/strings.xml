@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DZalertDial</string>
+    <string name="edit_text_name">Введите имя</string>
+    <string name="edit_text_age">Введите возраст</string>
+    <string name="button_save">Сохранить</string>
+    <string name="exit">Выход из приложения</string>
+    <string name="infoStr">Информация о приложении</string>
+</resources>
